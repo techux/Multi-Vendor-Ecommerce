@@ -5,3 +5,5 @@ logs
 *.log
 
 *temp*.*
+
+src/generated/prisma
